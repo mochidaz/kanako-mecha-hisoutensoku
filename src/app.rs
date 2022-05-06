@@ -124,8 +124,6 @@ Booru: {}
         .send()
         .await?;
 
-        println!("Kanako is posting!");
-
         Ok(())
     }
 }
