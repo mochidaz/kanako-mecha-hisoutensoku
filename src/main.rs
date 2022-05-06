@@ -14,7 +14,7 @@ async fn task() {
 
     match main_app.post().await {
         Ok(_) => (),
-        Err(_) => println!("Error occured!"),
+        Err(_) => println!("Error okkued!"),
     };
 
 }
